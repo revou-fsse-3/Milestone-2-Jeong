@@ -1,5 +1,5 @@
 // HomeContainer.tsx
-import { getPokemon, Pokemon } from '../../api/getPokemon';
+import { getPokemon } from '../../api/getPokemon';
 import { Card } from '../../components';
 import styles from './HomeContainer.module.css';
 import { useQuery } from 'react-query';
